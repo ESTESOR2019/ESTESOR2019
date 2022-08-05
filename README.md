@@ -1,3 +1,8 @@
+ <title>Esteban Soraire</title>
+
+
+
+
 class User {
     constructor(props){
         this.nombre = props.nombre;
