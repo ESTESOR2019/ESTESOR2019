@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mí
-- 🔹 Más de X años de experiencia en desarrollo y mantenimiento de sistemas.
+- 🔹 Más de 20 años de experiencia en desarrollo y mantenimiento de sistemas.
 - 🔹 Experto en integración de **APIs**, manejo de **bases de datos** y migraciones.
 - 🔹 Experiencia en **intranets corporativas** y sistemas de control.
 - 🔹 Conocimiento en tecnologías modernas y soporte de sistemas heredados.
